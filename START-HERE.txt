@@ -1,0 +1,16 @@
+ACADEMIC RESEARCH EXPLORER - START HERE
+=======================================
+
+OPTION 1 - No installation (recommended)
+  Double-click  academic-research-explorer.html
+  It opens in your browser and works offline: search, dashboard, graph,
+  and Evaluate. Saved judgments are kept in this browser.
+  Use Chrome, Edge, Firefox or Safari (current versions).
+
+OPTION 2 - Full-stack server (needs Node.js 18 or later)
+  1. Install Node.js from https://nodejs.org (LTS version), if not installed.
+  2. Open a terminal in the fullstack-server folder.
+  3. Run:  npm start
+  4. Open http://localhost:3000 in your browser.
+  Stop the server with Ctrl+C. Run "npm test" to check the installation.
+  Saved judgments are kept in fullstack-server/data/judgments.json.
